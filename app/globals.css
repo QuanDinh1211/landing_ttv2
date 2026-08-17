@@ -75,6 +75,7 @@
 
 @layer base {
   * {
+    border-color: hsl(var(--border));
   }
   body {
     font-family: "Be Vietnam Pro", system-ui, sans-serif;
